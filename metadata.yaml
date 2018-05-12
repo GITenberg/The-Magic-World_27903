@@ -1,0 +1,57 @@
+_repo: The-Magic-World_27903
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, Harold Robert
+    - Millar, H.R.
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+  - agent_name: Pryse, Gerald Spencer
+    alias: Pryse, Spencer
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '33004'
+    url: http://www.gutenberg.org/2009/agents/33004
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: This is a collection of twelve stories with magic occurrences. There
+  are fairy tale lands inhabited by kings and queens, princes and princesses who have
+  to outwit wicked fairies and evil magicians. Princess Belinda is condemned to be
+  ugly during the week and beautiful on Sundays. Kenneth turns into a fish and has
+  to be caught before he can transform back into a boy again. Annabel opens a wardrobe
+  and discovers an enormous railway-station inside.
+gutenberg_issued: '2009-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Children''s stories, English'
+- !lcc 'PZ'
+tableOfContents: The cat-hood of Maurice -- The mixed mine -- Accidental magic --
+  The princess and the hedge-pig -- Septimus Septimusson -- The white cat -- Belinda
+  and Bellamant -- Justnowland -- The related muff -- The aunt and Amabel -- Kenneth
+  and the carp -- The magician's heart.
+title: The Magic World
+url: http://www.gutenberg.org/ebooks/27903
